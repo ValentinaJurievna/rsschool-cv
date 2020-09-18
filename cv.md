@@ -13,7 +13,9 @@ ___
 In my free time from the University I'm actively engaged in self-study. I take online courses on front-end development on such platforms as Stepik, FreeCodeCamp, Rolling Scopes School. I love what I do and I want to develop and gain experience in the field of front-end development.
 
 As for personal qualities, I'm responsible and very ambitious, but in the same time I'm kind, positive and stress-resistant. I plan to work hard, grow and develop no matter what!
+
 ___
+
 ###SKILLS
 
 * Basics of object-oriented programming
