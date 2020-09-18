@@ -1,1 +1,1 @@
-https://ValentinaJurievna.github.io/rsschool-cv/cv.md
+https://ValentinaJurievna.github.io/rsschool-cv/cv
