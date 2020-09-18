@@ -1,6 +1,7 @@
 #**Valentina Ivantsova**
 
 ###CONTACTS
+
 ####Phone number: *+375(29)253-29-28*
 
 ####E-mail: *judesignnn@gmail.com*
@@ -13,6 +14,7 @@ In my free time from the University I'm actively engaged in self-study. I take o
 As for personal qualities, I'm responsible and very ambitious, but in the same time I'm kind, positive and stress-resistant. I plan to work hard, grow and develop no matter what!
 ___
 ###SKILLS
+
 * Basics of object-oriented programming
 * HTML/CSS
 * JavaScript
@@ -26,6 +28,7 @@ ___
 
 ___
 ###EDUCATION
+
 ####Belarusian State Technological University 
 
 *Faculty of information technology*
@@ -34,6 +37,7 @@ ___
 
 ___
 ###EXPERIENCE
+
 * Freelance (UX/UI designer)
 
     Responsibilities: prototyping (including intaractive prototypes); website animation in Adobe After Effects; user interface design in Figma and Adobe Photoshop; working with Wix.com, Tilda
@@ -44,6 +48,7 @@ ___
 
 ___
 ###PORTFOLIO
+
 [https://github.com/ValentinaJurievna](https://github.com/ValentinaJurievna)
 
 [https://www.behance.net/JuDesignnn](https://www.behance.net/JuDesignnn)
