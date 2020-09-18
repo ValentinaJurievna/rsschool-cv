@@ -1,10 +1,10 @@
-#**Valentina Ivantsova**
+# **Valentina Ivantsova**
 
-###CONTACTS
+### CONTACTS
 
-####Phone number: *+375(29)253-29-28*
+#### Phone number: *+375(29)253-29-28*
 
-####E-mail: *judesignnn@gmail.com*
+#### E-mail: *judesignnn@gmail.com*
 
 ___
 
