@@ -8,7 +8,7 @@
 
 ___
 
-###ABOUT ME
+### ABOUT ME
 
 In my free time from the University I'm actively engaged in self-study. I take online courses on front-end development on such platforms as Stepik, FreeCodeCamp, Rolling Scopes School. I love what I do and I want to develop and gain experience in the field of front-end development.
 
@@ -16,7 +16,7 @@ As for personal qualities, I'm responsible and very ambitious, but in the same t
 
 ___
 
-###SKILLS
+### SKILLS
 
 * Basics of object-oriented programming
 * HTML/CSS
@@ -30,16 +30,16 @@ ___
 * English (Intermediate)
 
 ___
-###EDUCATION
+### EDUCATION
 
-####Belarusian State Technological University 
+#### Belarusian State Technological University 
 
 *Faculty of information technology*
 
 *Design electronic and web publications*
 
 ___
-###EXPERIENCE
+### EXPERIENCE
 
 * Freelance (UX/UI designer)
 
@@ -50,7 +50,7 @@ ___
     Responsibilities: adaptive web design (HTML/CSS, JS, Jquery); working with version control (Git); working with DOM, API and SVG objects
 
 ___
-###PORTFOLIO
+### PORTFOLIO
 
 [https://github.com/ValentinaJurievna](https://github.com/ValentinaJurievna)
 
