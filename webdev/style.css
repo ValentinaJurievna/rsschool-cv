@@ -1,0 +1,475 @@
+
+body {
+	top: 0;
+	width: 1600px;
+	padding-left: 50%;
+	margin-top: 0;
+}
+
+main {
+	width: 1600px;
+	margin-left: -800px;
+}
+
+header {
+	position: absolute;
+	z-index: 3;
+	margin-top: 0;
+	width: 1600px;
+	height: 80px;
+	padding: 0;
+}
+
+header ul {
+	padding: 0;
+	margin: 25px 500px;
+	
+}
+
+header ul li {
+	line-height: 80px;
+	display: inline-block;
+	margin-top: 0;
+	margin-left: 80px;
+}
+
+header ul li a {
+	font-family: 'Roboto-regular', sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+header ul li .active {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+header ul li a:hover {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+.logo {
+
+	margin: 0 100px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	text-transform: uppercase;
+}
+
+
+p {
+
+	font-family: 'Roboto-regular', sans-serif;
+
+}
+
+.your_life {
+	
+	height: 744px;
+
+}
+
+.your_life img {
+	position: absolute;
+	max-width: 1600px;
+	z-index: -999;
+}
+
+.your_life h1 {
+	position: absolute;
+	font-size: 64px;
+	color: #FFFFFF;
+	width: 750px;
+	text-align: center;
+	margin: 240px 441px;
+	letter-spacing: 4.5px;
+}
+
+.your_life p {
+	position: absolute;
+	font-size: 18px;
+	color: #FFFFFF;
+	width: 504px;
+	text-align: center;
+	margin: 330px 550px;
+}
+
+.button {
+	position: absolute;
+	margin: 405px 716px;
+	width: 184px;
+	height: 46px;
+	background-color: #00AFDB;
+	color: white;
+	border: 0;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+	z-index: 5;
+}
+
+.button:hover {
+	cursor: pointer;
+	box-shadow: 0 0 10px #00AFDB;
+}
+
+.button:focus {
+	outline: none;
+
+}
+
+.button:active {
+	box-shadow: 0 0 10px #6D6B6B inset;
+}
+
+.icons {
+	margin-left: 720px;
+}
+
+.icons a {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 630px;
+}
+
+
+
+.rappresent {
+	height: 842px;
+	width: 1600px;
+}
+
+.rappresent h1 {
+	position: absolute;
+	color: #373737;
+	font-size: 24px;
+	margin-top: 295px;
+	width: 367px;
+	margin-left: 269px;
+	letter-spacing: 1px;
+}
+
+.rappresent p {
+	position: absolute;
+	margin-top: 372px;
+	width: 407px;
+	margin-left: 269px;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+.rappresent img {
+	margin-top: 120px;
+	margin-left: 924px;
+	position: absolute;
+}
+
+.button.n_2 {
+	position: absolute;
+	margin-top: 482px;
+	margin-left: 269px;
+}
+
+
+
+.our_community {
+	background-color: #F5F6F7;
+	height: 504px;
+	width: 1600px;
+}
+
+.com {
+	position: absolute;
+	top: 0; 
+	bottom: 0; 
+	left: 0; 
+	right: 0;
+}
+
+
+.our_community .user {
+	position: absolute;
+	margin-top: 1741px;
+	margin-left: 396px;
+}
+
+
+.our_community h2 {
+	position: absolute;
+	display: flex;
+	margin-top: 1806px;
+	margin-left: 338px;
+	text-align: center;
+	width: 170px;
+	height: 20px;
+	font-size: 16px;
+	letter-spacing: 2.4px;
+	line-height: 20px;
+	font-style: normal;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #373737;
+
+}
+
+.our_community p {
+	position: absolute;
+	margin-top: 1836px;
+	margin-left: 269px;
+	width: 298px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 140%;
+	color: #373737;
+}
+
+.arrow {
+	position: absolute;
+	margin-top: 1668px;
+	margin-left: 1248px;
+}
+
+.arrow img {
+	display: inline-block;
+}
+
+.our_community .slider {
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 690px;
+}
+
+.our_community .slider img {
+	display: inline-block;
+	position: relative;
+
+}
+
+.slide_3 {
+	position: absolute;
+	width: 20px;
+	height: 244px;
+	object-fit: cover;
+}
+
+.arrow-left, .arrow-right:hover {
+	cursor: pointer;
+	background-color: #fff;
+}
+
+
+
+.implement {
+	height: 842px;
+	width: 1600px;
+}
+
+.implement h1 {
+	position: absolute;
+	letter-spacing: 1px;
+	color: #373737;
+	font-size: 24px;
+	margin-top: 319px;
+	margin-left: 815px;
+	width: 300px;
+	
+}
+
+.implement p {
+	position: absolute;
+	margin-top: 372px;
+	width: 407px;
+	margin-left: 815px;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+.implement img {
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 269px;
+}
+
+.learn_more {
+	position: absolute;
+	margin-top: 457px;
+	margin-left: 815px;
+}
+
+
+.sign-up {
+
+	background-image: url(assets/1.jpg);
+	height: 524px;
+	width: 1600px;
+}
+
+.sign-up h1 {
+	position: absolute;
+	letter-spacing: 1px;
+	color: #FFF;
+	font-size: 24px;
+	margin-top: 200px;
+	margin-left: 610px;
+	width: 390px;
+}
+
+.email {
+	margin-top: 258px;
+	margin-left: 597px;
+	width: 406px;
+	height: 42px;
+	font-family: 'Roboto-regular', sans-serif;
+	font-size: 14px;
+	line-height: 140%;
+	font-weight: 400;
+	color: #373737;
+	padding: 0;
+}
+
+.sign-up img {
+	height: 46px;
+	position: absolute;
+	margin-top: 258px;
+	margin-left: -65px;
+}
+
+.sign-up img:hover {
+	cursor: pointer;
+	box-shadow: 0 0 10px #00AFDB;
+}
+
+
+
+.download {
+
+	height: 464px;
+	width: 1600px;
+}
+
+.download h1 {
+	position: absolute;
+	letter-spacing: 1px;
+	color: #373737;
+	font-size: 24px;
+	margin-top: 120px;
+	margin-left: 675px;
+}
+
+.download p {
+	position: absolute;
+	color: #373737;
+	margin-top: 168px;
+	width: 480px;
+	margin-left: 560px;
+	line-height: 140%;
+	font-weight: normal;
+	font-size: 14px;
+	align-items: center;
+	text-align: center;
+}
+
+.apple_store {
+	position: absolute;
+	margin-top: 238px;
+	margin-left: 599px;
+	width: 127px;
+}
+
+.play_market {
+	position: absolute;
+	margin-top: 238px;
+	margin-left: 815px;
+	width: 127px;
+}
+
+.icon_1 {
+	position: absolute;
+	margin-left: 726px;
+	margin-top: 238px;
+}
+
+.icon_1:hover  {
+	cursor: pointer;
+	box-shadow: 0 0 10px #009CC2;
+}
+
+.icon_1:active {
+		box-shadow: 0 0 10px #6D6B6B inset;
+}
+
+
+.icon_2:hover {
+	cursor: pointer;
+	box-shadow: 0 0 10px #009CC2;
+}
+
+
+.icon_2:active {
+		box-shadow: 0 0 10px #6D6B6B inset;
+}
+
+
+.icon_2 {
+	position: absolute;
+	margin-left: 942px;
+	margin-top: 238px;
+}
+
+
+footer {
+	background-color: black;
+	height: 185px;
+	width: 1600px;
+	margin-top: -70px;
+
+}
+
+footer ul {
+	padding: 0;
+	margin-top: 73px;
+	margin-left: 160px;
+	
+}
+
+footer ul li {
+	line-height: 80px;
+	display: inline-block;
+	margin-top: 73px;
+	margin-left: 80px;
+}
+
+footer ul li a {
+	font-family: 'Roboto-regular', sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+footer ul li .active {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+footer ul li a:hover {
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+footer p {
+	position: absolute;
+	color: #818181;
+	margin-top: 73px;
+	width: 180px;
+	margin-left: 1248px;
+	line-height: 140%;
+	font-weight: normal;
+	font-size: 14px;
+	
+}
